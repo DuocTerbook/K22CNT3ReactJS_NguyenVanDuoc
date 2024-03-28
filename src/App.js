@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './ANH.png';
 import './App.css';
 
 function App() {
@@ -7,16 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          ĐẠI HỌC NGUYỄN TRÃI
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div>
+          <h2>K22CNT3-Nguyễn Văn Được-2210900016</h2>
+        </div>
       </header>
     </div>
   );
